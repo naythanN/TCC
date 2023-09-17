@@ -1,0 +1,62 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-nijima
+  annotations:
+    service.beta.kubernetes.io/aws-load-balancer-type: "external"
+    service.beta.kubernetes.io/aws-load-balancer-nlb-target-type: "ip"
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-port: "50000"
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-protocol: http 
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-healthy-threshold: "10"
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-unhealthy-threshold: "10"
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-timeout: "30"
+    service.beta.kubernetes.io/aws-load-balancer-healthcheck-interval: "300"
+    service.beta.kubernetes.io/aws-load-balancer-scheme: internet-facing
+spec:
+  type: LoadBalancer
+  selector:
+    app: nijima
+  sessionAffinity: ClientIP
+  sessionAffinityConfig:
+    clientIP:
+      timeoutSeconds: 10000
+  ports:
+    - name: port1
+      port: 47984
+      protocol: TCP
+    - name: port2
+      port: 47985
+      protocol: TCP
+    - name: port3
+      port: 47986
+      protocol: TCP
+    - name: port4
+      port: 47987
+      protocol: TCP
+    - name: port5
+      port: 47988
+      protocol: TCP
+    - name: port6
+      port: 47989
+      protocol: TCP
+    - name: port7
+      port: 47990
+      protocol: TCP
+    - name: port8
+      protocol: TCP
+      port: 48010
+    - name: port9
+      port: 47998
+      protocol: UDP
+    - name: port10
+      port: 47999
+      protocol: UDP
+    - name: port11
+      port: 48000
+      protocol: UDP
+    - name: port12
+      port: 50000
+      protocol: TCP
+    - name: port13
+      port: 60000
+      protocol: TCP

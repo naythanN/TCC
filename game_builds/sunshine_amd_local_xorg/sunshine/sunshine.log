@@ -1,0 +1,24 @@
+[2023:09:04:23:41:42]: Info: Sunshine version: 0.20.0.8ff2022aaf7c4d19b57f505df9b7d7e1b6060365
+[2023:09:04:23:41:42]: Warning: Failed to create system tray
+[2023:09:04:23:41:43]: Error: Couldn't initialize cuda: CUDA_ERROR_NO_DEVICE:no CUDA-capable device is detected
+[2023:09:04:23:41:43]: Error: Environment variable WAYLAND_DISPLAY has not been defined
+[2023:09:04:23:41:43]: Info: Detecting monitors
+[2023:09:04:23:41:43]: Error: Unable to initialize capture method
+[2023:09:04:23:41:43]: Error: Platform failed to initialize
+[2023:09:04:23:41:43]: Error: Could not create Sunshine Mouse: No such file or directory
+[2023:09:04:23:41:43]: Error: Could not create Sunshine Touchscreen: No such file or directory
+[2023:09:04:23:41:43]: Error: Could not create Sunshine Keyboard: No such file or directory
+[2023:09:04:23:41:43]: Error: Unable to create some input devices! Are you a member of the 'input' group?
+[2023:09:04:23:41:43]: Info: Falling back to XTest
+[2023:09:04:23:41:43]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2023:09:04:23:41:43]: Info: Trying encoder [nvenc]
+[2023:09:04:23:41:44]: Info: Encoder [nvenc] failed
+[2023:09:04:23:41:44]: Info: Trying encoder [vaapi]
+[2023:09:04:23:41:46]: Info: Encoder [vaapi] failed
+[2023:09:04:23:41:46]: Info: Trying encoder [software]
+[2023:09:04:23:41:48]: Info: Encoder [software] failed
+[2023:09:04:23:41:48]: Fatal: Couldn't find any working encoder
+[2023:09:04:23:41:48]: Error: Video failed to find working encoder
+[2023:09:04:23:41:48]: Error: Failed to create client: Daemon not running
+[2023:09:04:23:41:48]: Info: Configuration UI available at [https://localhost:47990]
+[2023:09:04:23:42:10]: Info: Interrupt handler called

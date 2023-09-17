@@ -1,0 +1,215 @@
+[2023:08:01:21:17:03]: Info: Sunshine version: 0.20.0.8ff2022aaf7c4d19b57f505df9b7d7e1b6060365
+[2023:08:01:21:17:03]: Error: Couldn't load cuda: -1
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Error: Couldn't open: /dev/dri/card2: Permission denied
+[2023:08:01:21:17:03]: Error: Could not create Sunshine Mouse: Permission denied
+[2023:08:01:21:17:03]: Error: Could not create Sunshine Touchscreen: Permission denied
+[2023:08:01:21:17:03]: Error: Could not create Sunshine Keyboard: Permission denied
+[2023:08:01:21:17:03]: Error: Unable to create some input devices! Are you a member of the 'input' group?
+[2023:08:01:21:17:03]: Info: Falling back to XTest
+[2023:08:01:21:17:03]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2023:08:01:21:17:03]: Info: Trying encoder [nvenc]
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: System tray created
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:03]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:03]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:03]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:03]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:03]: Info: Encoder [nvenc] failed
+[2023:08:01:21:17:03]: Info: Trying encoder [vaapi]
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:03]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:03]: Info: Found display [wayland-1]
+[2023:08:01:21:17:03]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:03]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:03]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:03]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:03]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:03]: Info: Offset: 0x0
+[2023:08:01:21:17:03]: Info: Resolution: 1280x720
+[2023:08:01:21:17:03]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:03]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:03]: Info: Color range: [JPEG]
+[2023:08:01:21:17:04]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:04]: Info: Found display [wayland-1]
+[2023:08:01:21:17:04]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:04]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:04]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:04]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:04]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:04]: Info: Offset: 0x0
+[2023:08:01:21:17:04]: Info: Resolution: 1280x720
+[2023:08:01:21:17:04]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:04]: Info: SDR color coding [Rec. 709]
+[2023:08:01:21:17:04]: Info: Color range: [JPEG]
+[2023:08:01:21:17:04]: Warning: vaapi: hevc missing sps->vui parameters
+[2023:08:01:21:17:04]: Info: 
+[2023:08:01:21:17:04]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2023:08:01:21:17:04]: Info: 
+[2023:08:01:21:17:04]: Info: Found encoder vaapi: [h264_vaapi, hevc_vaapi]
+[2023:08:01:21:17:04]: Error: Failed to create client: Daemon not running
+[2023:08:01:21:17:04]: Info: Configuration UI available at [https://localhost:47990]
+[2023:08:01:21:17:17]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2023:08:01:21:17:17]: Info: Trying encoder [nvenc]
+[2023:08:01:21:17:17]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:17]: Info: Found display [wayland-1]
+[2023:08:01:21:17:17]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:17]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:17]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:17]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:17]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:17]: Info: Offset: 0x0
+[2023:08:01:21:17:17]: Info: Resolution: 1280x720
+[2023:08:01:21:17:17]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:17]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:17]: Info: Color range: [JPEG]
+[2023:08:01:21:17:17]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:17]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:17]: Info: Found display [wayland-1]
+[2023:08:01:21:17:17]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:17]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:17]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:17]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:17]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:17]: Info: Offset: 0x0
+[2023:08:01:21:17:17]: Info: Resolution: 1280x720
+[2023:08:01:21:17:17]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:17]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:17]: Info: Color range: [JPEG]
+[2023:08:01:21:17:17]: Error: Failed to create a CUDA device: Operation not permitted
+[2023:08:01:21:17:17]: Info: Encoder [nvenc] failed
+[2023:08:01:21:17:17]: Info: Trying encoder [vaapi]
+[2023:08:01:21:17:17]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:17]: Info: Found display [wayland-1]
+[2023:08:01:21:17:17]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:17]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:17]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:17]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:17]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:17]: Info: Offset: 0x0
+[2023:08:01:21:17:17]: Info: Resolution: 1280x720
+[2023:08:01:21:17:17]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:17]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:17]: Info: Color range: [JPEG]
+[2023:08:01:21:17:18]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:18]: Info: Found display [wayland-1]
+[2023:08:01:21:17:18]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:18]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:18]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:18]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:18]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:18]: Info: Offset: 0x0
+[2023:08:01:21:17:18]: Info: Resolution: 1280x720
+[2023:08:01:21:17:18]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:18]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:18]: Info: Color range: [JPEG]
+[2023:08:01:21:17:18]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:18]: Info: Found display [wayland-1]
+[2023:08:01:21:17:18]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:18]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:18]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:18]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:18]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:18]: Info: Offset: 0x0
+[2023:08:01:21:17:18]: Info: Resolution: 1280x720
+[2023:08:01:21:17:18]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:18]: Info: SDR color coding [Rec. 709]
+[2023:08:01:21:17:18]: Info: Color range: [JPEG]
+[2023:08:01:21:17:18]: Warning: vaapi: hevc missing sps->vui parameters
+[2023:08:01:21:17:18]: Info: 
+[2023:08:01:21:17:18]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2023:08:01:21:17:18]: Info: 
+[2023:08:01:21:17:18]: Info: Found encoder vaapi: [h264_vaapi, hevc_vaapi]
+[2023:08:01:21:17:18]: Info: Executing [Desktop]
+[2023:08:01:21:17:18]: Info: CLIENT CONNECTED
+[2023:08:01:21:17:18]: Info: Found display [wayland-1]
+[2023:08:01:21:17:18]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:18]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:18]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:18]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:18]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:18]: Info: Offset: 0x0
+[2023:08:01:21:17:18]: Info: Resolution: 1280x720
+[2023:08:01:21:17:18]: Info: Screencasting with Wayland's protocol
+[2023:08:01:21:17:18]: Info: Found display [wayland-1]
+[2023:08:01:21:17:18]: Info: Found interface: zxdg_output_manager_v1(8) version 3
+[2023:08:01:21:17:18]: Info: Found interface: zwlr_export_dmabuf_manager_v1(24) version 1
+[2023:08:01:21:17:18]: Info: Found interface: wl_output(40) version 4
+[2023:08:01:21:17:18]: Info: Name: HEADLESS-1
+[2023:08:01:21:17:18]: Info: Found monitor: Headless output 1
+[2023:08:01:21:17:18]: Info: Offset: 0x0
+[2023:08:01:21:17:18]: Info: Resolution: 1280x720
+[2023:08:01:21:17:18]: Info: Selected monitor [Headless output 1] for streaming
+[2023:08:01:21:17:18]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:18]: Info: Color range: [MPEG]
+[2023:08:01:21:17:18]: Error: Couldn't import RGB Image: 0000300C
+[2023:08:01:21:17:18]: Error: Could not convert image
+[2023:08:01:21:17:18]: Info: SDR color coding [Rec. 601]
+[2023:08:01:21:17:18]: Info: Color range: [MPEG]
+[2023:08:01:21:17:18]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2023:08:01:21:17:49]: Info: CLIENT DISCONNECTED

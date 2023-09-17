@@ -1,0 +1,3185 @@
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-02e6c87eae/c3a9e019fd8ac180
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-04a10e3ca0/b8b74b3fe47a42e1
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-0919aae4eb/56458bc587254412
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-0e8dc3e93e/6c97a1799dc59d35
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-0edabcfdbd/b3eff7446bcc1023
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-11878a0744/e29c97bbd33ef3e6
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-1b0c8ac50d/bb0b6c94f9ba1b7f
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-1de24ce744/25ba9ac1b81ce62c
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-272fa53106/27767d7c6efa0ffa
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-2a5e504d98/07fc7a9a972cb073
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-2b02f4041d/ce5cad6ba8d8e5a5
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-2d09a0cb5d/ca8c27ff09340bfd
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-325e3e9698/f357891a51ae1a2b
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-3610a4146e/5a356a25b38bee68
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-3711fd955f/6abe1912ac9c7411
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-419f46dcd1/9f7160a61b510a01
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-4405fc25d2/5649b5e355ba6dd3
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-458ce144be/d943ce1beb34f08a
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-482f44e4b2/a1a00b65d9484b37
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-4ffcd16975/f3f8e8f9c20fe032
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-5088b97dc3/c734d5fbb3657d4c
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-5335b3c61c/63bc6273a321a625
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-5a2dd40320/cef8dbf6a00d38a7
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-6245cc810e/38e143f98fbb5bf6
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-6ab0f02c5b/ed03808fcc3312b4
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-6ba47c8fc8/a4c2e13043ae6034
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-6d79ca2b60/96833e8da2fe7cdb
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-7226e433f6/e4de54707d369c6a
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-72f727dc27/09201431180a66c5
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-74a1860207/fe9a3d22c7a65fdd
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-74ac02ee86/e18d82fceff62e1d
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-7525db0fee/5c8c2610247c533d
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-76c2e59878/2b1777e709228188
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-78794a584f/cdccd4e46261826b
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-7c51521ebc/b21d96da6e43c221
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-7c68d86cef/f375cc7378e81657
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-7cc20487e7/993523392cd2feb4
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-8d98c21110/15ffff66855cc449
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-8e3e427a63/a71bd30b065a463a
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-8e56afc0eb/029e465ff6682388
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-93841872a9/9b15058e5844fedd
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-96f79c125a/09ef61eaad96d6ba
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-9e4f2dbd02/5513c791ff10f82d
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-a1c838a1ef/3261073c0d1d1741
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-a300ad4e12/a00412b8978ea982
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-a93cccfeda/48935d90ce0c941c
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-b0d1831d6f/1539f409bf888f89
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-b25d33ac41/8841bfed01fbaf5e
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-bc70653d67/3b6194400003d325
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-becf22091c/f986a4fca312d2d7
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-c1c78bd94d/3e88bd12310ab8de
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-c4d8f7e9e8/c11ce5afda0de5a9
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-d45c21363e/3c9983f522f07012
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-d5090caa4b/3e8bd2f69fbfcce3
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-d9638fd070/165ddb63e0d00329
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-df768d9b7f/d798fc2ff87eba64
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-e094b69bf3/f570338b8059507f
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-e3f8542d91/8f95743b33c6bb42
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-f04edcac79/7196ee1dad8fff52
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-f0fd24d03e/0785f7cf4e8b44cf
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-f4187de0ec/7cbe6adbabf06f8b
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-f79728ce50/8791ff0fdf234aa9
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-f8328d3fc6/02f8386abc6443da
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-fa1975a4be/2a13506643d26dff
+{
+    "Attributes": [
+        {
+            "Key": "proxy_protocol_v2.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "preserve_client_ip.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "stickiness.enabled",
+            "Value": "true"
+        },
+        {
+            "Key": "target_group_health.unhealthy_state_routing.minimum_healthy_targets.percentage",
+            "Value": "off"
+        },
+        {
+            "Key": "deregistration_delay.timeout_seconds",
+            "Value": "300"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.count",
+            "Value": "1"
+        },
+        {
+            "Key": "stickiness.type",
+            "Value": "source_ip"
+        },
+        {
+            "Key": "deregistration_delay.connection_termination.enabled",
+            "Value": "false"
+        },
+        {
+            "Key": "load_balancing.cross_zone.enabled",
+            "Value": "use_load_balancer_configuration"
+        },
+        {
+            "Key": "target_group_health.dns_failover.minimum_healthy_targets.percentage",
+            "Value": "off"
+        }
+    ]
+}
+Enabled sticky sessions for target group: arn:aws:elasticloadbalancing:sa-east-1:380285632927:targetgroup/k8s-default-servicen-fff40f0314/b997bc5f96c4fe68

@@ -1,0 +1,59 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nijima-test
+spec:
+  hostIPC: true
+  hostNetwork: true
+  securityContext:
+    runAsUser: 1000
+  containers:
+    - name: makoto
+      image: "naythan/nijima:test"
+      imagePullPolicy: Always
+      livenessProbe:
+          exec:
+            command:
+            - touch
+            - /tmp/healthy
+      readinessProbe:
+        exec:
+          command:
+          - touch
+          - /tmp/healthy
+      securityContext:
+        allowPrivilegeEscalation: true
+        capabilities:
+          add: ["NET_ADMIN", "SYS_TIME", "SYS_ADMIN"]
+      ports:
+        - containerPort: 47984
+          protocol: TCP
+        - containerPort: 47985
+          protocol: TCP
+        - containerPort: 47986
+          protocol: TCP
+        - containerPort: 47987
+          protocol: TCP
+        - containerPort: 47988
+          protocol: TCP
+        - containerPort: 47989
+          protocol: TCP
+        - containerPort: 47990
+          protocol: TCP
+        - containerPort: 48010
+          protocol: TCP
+        - containerPort: 47998
+          protocol: UDP
+        - containerPort: 47999
+          protocol: UDP
+        - containerPort: 48000
+          protocol: UDP
+        - containerPort: 50000
+          hostPort: 50000
+          protocol: TCP
+      #command: ["sleep", "120"]
+      resources:
+        #limits:
+          #nvidia.com/gpu-10gb: 1 #
+          #memory: 500m
+          #cpu: '1'

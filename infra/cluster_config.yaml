@@ -1,0 +1,31 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+metadata:
+  name: gpu
+  region: sa-east-1
+  version: "1.26"
+iam:
+  withOIDC: true
+addons:
+  - name: vpc-cni
+  - name: coredns
+  - name: kube-proxy
+nodeGroups:
+  - name: workers
+    instanceType: g5.xlarge
+    #ami: ami-05de45c8a1d48d624 # us-east-2
+    #ami: ami-0491a9fc8841d2c24 # us-east-1
+    ami: ami-01d79101d667eadcc # sa-east-1
+    amiFamily: Ubuntu2004
+    minSize: 1
+    desiredCapacity: 1
+    maxSize: 1
+    volumeSize: 50
+    overrideBootstrapCommand: |
+      #!/bin/bash
+      source /var/lib/cloud/scripts/eksctl/bootstrap.helper.sh
+      /etc/eks/bootstrap.sh ${CLUSTER_NAME} --kubelet-extra-args "--node-labels=${NODE_LABELS}"
+    ssh:
+      allow: true
+      publicKeyPath: ~/.ssh/id_rsa.pub
+#--container-runtime containerd
