@@ -25,7 +25,14 @@ A principal diferença deste projeto em relação aos semelhantes é o uso do Nv
 
 Here there are some instructions to run the project (although there are scripts to do it, it could be automated more).
 
-There are two directories in the repository.
+There are two directories in the repository. game_builds and infra.
+The game_builds contain Dockerfiles to build the images. The infra contains the definitions of the infrastructure. To create the infrastructure you need to have access to an AWS account that is able to create EC2 instances with GPUs. After configuring the AWS credentials, you need to install eksctl, kubectl, aws-cli to run the scripts.
+
+The script infra_setup.sh contains the necessary steps to set up the infrastructure, but there are manual steps commented in the script that are necessary for the moment.
+
+It is also possible to run this locally, although Nvidia MPS won't work on consumer GPUs since it is a datacenter technology only.
+
+
 
 
 
